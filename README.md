@@ -1,4 +1,4 @@
-# Project Name
+# Project Name: synthetic_financial_data Analysis
 
 ## Overview
 
