@@ -1,8 +1,5 @@
 # Project Name: synthetic_financial_data Analysis
 
-![](credit.webp)
-
-
 ## Overview
 
 The project aims to analyze synthetic financial data, focusing on transaction details such as amount, timestamp, and fraud indicators. The primary methodology employed is Exploratory Data Analysis (EDA), involving characterizing the data, identifying patterns, detecting anomalies, and generating insights.
