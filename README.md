@@ -1,1 +1,48 @@
-# Futurense_Internship-capstone-project
+# Project Name
+
+## Overview
+
+The project aims to analyze synthetic financial data, focusing on transaction details such as amount, timestamp, and fraud indicators. The primary methodology employed is Exploratory Data Analysis (EDA), involving characterizing the data, identifying patterns, detecting anomalies, and generating insights.
+
+## Exploratory Data Analysis (EDA)
+
+### Methodology
+
+The EDA process includes:
+
+1. <font color='blue'>**Characterization**</font>: Understanding fundamental characteristics of the financial data.
+2. <font color='green'>**Pattern Identification**</font>: Identifying patterns, trends, and distributions within the dataset.
+3. <font color='orange'>**Anomaly Detection**</font>: Recognizing irregularities or outliers indicating potential fraudulent activities.
+4. <font color='red'>**Further Investigation**</font>: Highlighting areas within the data requiring deeper analysis.
+
+## Insight Generation
+
+Through EDA, the project aims to generate actionable insights essential for:
+
+- <font color='purple'>**Informed Decision-Making**</font>: Providing stakeholders with valuable information for strategic decisions.
+- <font color='brown'>**Risk Management**</font>: Facilitating identification and mitigation of financial risks associated with fraudulent activities.
+- <font color='teal'>**Business Optimization**</font>: Identifying opportunities for process optimization or improvement within financial operations.
+
+## Usage
+
+To replicate the analysis:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the EDA script.
+
+## Contributors
+Akansha Shetty
+
+Chirimala Kowstubha
+
+Karparotu surya venkata tharani
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
