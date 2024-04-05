@@ -1,1 +1,1 @@
-# futursense-Internship-capstone-project
+# Futursense_Internship-capstone-project
