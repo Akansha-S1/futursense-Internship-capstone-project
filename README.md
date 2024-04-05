@@ -1,4 +1,5 @@
 # Project Name: synthetic_financial_data Analysis
+# Team name: Growth Gurus
 ![image](https://github.com/Akansha-S1/futursense-Internship-capstone-project/assets/115874218/5ef5988b-4460-452f-9ba8-d1f79d8f2779)
 
 ## Overview
