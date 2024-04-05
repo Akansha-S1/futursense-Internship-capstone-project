@@ -41,5 +41,5 @@ Akansha Shetty
 
 Chirimala Kowstubha
 
-Karparotu surya venkata tharani
+Kaparotu Venkata Surya Tharani
 
