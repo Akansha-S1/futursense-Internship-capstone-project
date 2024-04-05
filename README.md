@@ -6,6 +6,11 @@
 
 The project aims to analyze synthetic financial data, focusing on transaction details such as amount, timestamp, and fraud indicators. The primary methodology employed is Exploratory Data Analysis (EDA), involving characterizing the data, identifying patterns, detecting anomalies, and generating insights.
 
+# Define the Problem Statement: 
+# Hypothesis Testing:
+
+
+
 ## Exploratory Data Analysis (EDA)
 
 ### Methodology
@@ -32,6 +37,9 @@ To replicate the analysis:
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the EDA script.
+
+# Peer Review:
+# Presentation:
 
 ## Contributors
 ![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
