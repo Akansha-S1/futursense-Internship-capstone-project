@@ -1,4 +1,6 @@
 # Project Name: synthetic_financial_data Analysis
+![](credit.webp)
+
 
 ## Overview
 
@@ -37,12 +39,4 @@ Akansha Shetty
 Chirimala Kowstubha
 
 Karparotu surya venkata tharani
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
 
