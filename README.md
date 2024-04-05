@@ -1,4 +1,6 @@
 # Project Name: synthetic_financial_data Analysis
+![image](https://github.com/Akansha-S1/futursense-Internship-capstone-project/assets/115874218/5ef5988b-4460-452f-9ba8-d1f79d8f2779)
+
 ## Overview
 
 The project aims to analyze synthetic financial data, focusing on transaction details such as amount, timestamp, and fraud indicators. The primary methodology employed is Exploratory Data Analysis (EDA), involving characterizing the data, identifying patterns, detecting anomalies, and generating insights.
