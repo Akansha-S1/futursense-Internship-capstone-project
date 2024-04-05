@@ -36,7 +36,7 @@ To replicate the analysis:
 ## Contributors
 ![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
 
-# 2nd year srudents of srtificial intelligence and data engineering:
+# 2nd year students of Artificial Intelligence and Data Engineering:
 Akansha Shetty
 
 Chirimala Kowstubha
