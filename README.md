@@ -33,7 +33,11 @@ To replicate the analysis:
 3. Run the EDA script.
 
 ## Contributors
+![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
+
 Akansha Shetty
+Kaparotu Venkata Surya Tharani
+Chirimala Kowstubha
 
 Chirimala Kowstubha
 
