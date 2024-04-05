@@ -1,4 +1,5 @@
 # Project Name: synthetic_financial_data Analysis
+
 ![](credit.webp)
 
 
