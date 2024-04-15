@@ -56,8 +56,6 @@ Through EDA, the project aims to generate actionable insights essential for:
 
 
 
-
-
 ## Usage
 
 To replicate the analysis:
@@ -66,7 +64,9 @@ To replicate the analysis:
 2. Navigate to the project directory.
 3. Run the EDA script.
 
-# Presentation:
+# Citations:
+## Dataset understanding: https://www.kaggle.com/datasets/ealaxi/paysim1
+## Data Science - Data Preparation: https://www.w3schools.com/datascience/ds_analyze_data.asp
 
 ## Contributors
 ![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
