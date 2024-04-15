@@ -39,7 +39,6 @@ To replicate the analysis:
 2. Navigate to the project directory.
 3. Run the EDA script.
 
-# Peer Review:
 # Presentation:
 
 ## Contributors
