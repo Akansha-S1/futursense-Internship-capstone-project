@@ -80,8 +80,8 @@ Akansha Shetty
 Linkedin: [Link](https://www.linkedin.com/in/akansha-shetty01)
 
 Chirimala Kowstubha
-Linkedin:[Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
+Linkedin: [Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
 
 Kaparotu Venkata Surya Tharani
-Linkedin:[Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
+Linkedin: [Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
 
