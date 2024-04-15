@@ -66,7 +66,7 @@ To replicate the analysis:
 
 # Citations:
 
-##References:
+## References:
 
 ### Dataset Understanding: "Synthetic Financial Dataset For Fraud Detection." Kaggle,[Link](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
