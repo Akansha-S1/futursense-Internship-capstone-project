@@ -68,9 +68,9 @@ To replicate the analysis:
 
 ##References:
 
-### Dataset Understanding: "Synthetic Financial Dataset For Fraud Detection." Kaggle, Link.
+### Dataset Understanding: "Synthetic Financial Dataset For Fraud Detection." Kaggle,[Link](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
-### Data Science - Data Preparation: "Data Analysis." W3Schools, Link.
+### Data Science - Data Preparation: "Data Analysis." W3Schools, [Link](https://www.w3schools.com/datascience/ds_analyze_data.asp)
 
 ## Contributors
 ![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
