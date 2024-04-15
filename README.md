@@ -76,12 +76,12 @@ To replicate the analysis:
 ![Alt Text](https://media.giphy.com/media/SnRKLohURfkufojw5m/giphy.gif)
 
 # 2nd year students of Artificial Intelligence and Data Engineering:
-Akansha Shetty
+## Akansha Shetty
 Linkedin: [Link](https://www.linkedin.com/in/akansha-shetty01)
 
-Chirimala Kowstubha
+## Chirimala Kowstubha
 Linkedin: [Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
 
-Kaparotu Venkata Surya Tharani
+## Kaparotu Venkata Surya Tharani
 Linkedin: [Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
 
