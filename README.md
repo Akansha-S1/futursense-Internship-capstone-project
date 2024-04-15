@@ -48,7 +48,7 @@ Through EDA, the project aims to generate actionable insights essential for:
 - **Spending Increases with Age:** The total purchase amount appeared to increase as the customer age group advanced, with older demographics showing higher spending trends, possibly influenced by factors like higher income or household size.
 - **Younger Age Groups Spend More on Online Shopping:** Analysis revealed that the 20-29 age group allocated a higher proportion of their spending on online shopping compared to older age groups, suggesting a preference for digital transactions among younger consumers.
 
-- # What distinguishes us?!
+  # What distinguishes us?!
 
 - Our **distinctive feature** is the integration of in-depth business insights and long-term forecasting spanning the next ***five years***. 
 - This is achieved through a meticulous analysis of the synthetic financial dataset, enabling us to uncover intricate trends, patterns, and potential future trajectories within the financial landscape.
