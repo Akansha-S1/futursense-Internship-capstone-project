@@ -80,7 +80,7 @@ To replicate the analysis:
 Linkedin: [Link](https://www.linkedin.com/in/akansha-shetty01)
 Github: [Link](https://github.com/Akansha-S1)
 
-## Chirimala Kowstubha
+## Chimirala Kowstubha
 Linkedin: [Link](https://www.linkedin.com/in/kowstubha-chimirala-2616062b9/)
 Github: [Link](https://github.com/Kowstubha9)
 
